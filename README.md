@@ -5,3 +5,5 @@ LEONARDO MONTAÑO LARES
 GERARDO TAPIA FIMBRES
 
 AXEL CORDOVA MONTIEL
+
+nombre de la base de datos: "bicicletas"
