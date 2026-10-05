@@ -19,4 +19,14 @@ También se almacenarán la información de las bicicletas que se pueden rentar 
 diagrama de la base de datos
 <img width="2660" height="2008" alt="Untitled" src="https://github.com/user-attachments/assets/abe8a47a-99c2-46ba-8652-b200145507fd" />
 
+algunas consultas que se pueden hacer
+<img width="1904" height="1012" alt="captura 1" src="https://github.com/user-attachments/assets/f14fb1b5-2daa-45c8-8a46-ba375262cbf3" />
+
+algunos reportes disponibles
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/80a94e5c-328d-4ef8-964e-e619e51a771a" />
+
+ejemplo de insert
+<img width="916" height="658" alt="image" src="https://github.com/user-attachments/assets/56613a54-943f-4746-ae66-841d6f4bb419" />
+
+
 
