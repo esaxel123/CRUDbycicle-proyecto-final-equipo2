@@ -10,7 +10,7 @@ AXEL CORDOVA MONTIEL
 
 nombre de la base de datos: "bicicletas"
 
-# descripcion
+# Descripcion
 
 El propósito del proyecto es crear una aplicación para el uso de servicios de renta de bicicletas utilizando una base de datos.  
 
@@ -20,9 +20,10 @@ Para hacer eso, también guardaría la información básica de los clientes, com
 
 También se almacenarán la información de las bicicletas que se pueden rentar y de cuáles tiendas se pueden rentar estás bicicletas. 
 
-diagrama de la base de datos
+# Diagrama de la base de datos
 <img width="2660" height="2008" alt="Untitled" src="https://github.com/user-attachments/assets/abe8a47a-99c2-46ba-8652-b200145507fd" />
 
+# Imagenes del proyecto
 algunas consultas que se pueden hacer
 <img width="1904" height="1012" alt="captura 1" src="https://github.com/user-attachments/assets/f14fb1b5-2daa-45c8-8a46-ba375262cbf3" />
 
