@@ -22,7 +22,9 @@ También se almacenarán la información de las bicicletas que se pueden rentar 
 
 # Intrucciones para ejecutar
 nombre que le debes poner a la base de datos: "bicicletas"
+
 crear las tablas con el script del archivo de nombre: "script para crear tablas Final 1.sql"
+
 insertra los datos con el script del archivo de nombre: "script para insertar los datos Final 1.sql"
 
 
