@@ -20,6 +20,12 @@ Para hacer eso, también guardaría la información básica de los clientes, com
 
 También se almacenarán la información de las bicicletas que se pueden rentar y de cuáles tiendas se pueden rentar estás bicicletas. 
 
+# Intrucciones para ejecutar
+nombre que le debes poner a la base de datos: "bicicletas"
+crear las tablas con el script del archivo de nombre: "script para crear tablas Final 1.sql"
+insertra los datos con el script del archivo de nombre: "script para insertar los datos Final 1.sql"
+
+
 # Diagrama de la base de datos
 <img width="2660" height="2008" alt="Untitled" src="https://github.com/user-attachments/assets/abe8a47a-99c2-46ba-8652-b200145507fd" />
 
