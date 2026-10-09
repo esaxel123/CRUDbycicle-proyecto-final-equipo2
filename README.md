@@ -10,6 +10,8 @@ AXEL CORDOVA MONTIEL
 
 nombre de la base de datos: "bicicletas"
 
+# descripcion
+
 El propósito del proyecto es crear una aplicación para el uso de servicios de renta de bicicletas utilizando una base de datos.  
 
 Tendría la funcionalidad de almacenar la información sobre todas las veces que una bicicleta es rentada en un servicio de renta de bicicletas, incluyendo información como: qué bicicleta es rentada, quién la rento, si se ha pagado la renta, y la manera del pago de la renta. 
